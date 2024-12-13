@@ -14,7 +14,7 @@ const Connect = () => {
       <div className="flex justify-center space-x-6">
         {/* LinkedIn Icon */}
         <a
-          href="https://https://www.linkedin.com/in/poramat/?trk=opento_sprofile_topcardwww.linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/poramat/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 text-4xl hover:text-blue-800 transition"
