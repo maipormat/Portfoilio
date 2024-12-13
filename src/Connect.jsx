@@ -17,7 +17,7 @@ const Connect = () => {
           href="https://www.linkedin.com/in/poramat/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-600 text-4xl hover:text-blue-800 transition"
+          className="text-blue-600 text-6xl hover:text-blue-800 transition"
           aria-label="LinkedIn"
         >
           <FaLinkedin />
@@ -28,7 +28,7 @@ const Connect = () => {
           href="https://github.com/maipormat"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-gray-800 text-4xl hover:text-gray-600 transition"
+          className="text-gray-800 text-6xl hover:text-gray-600 transition"
           aria-label="GitHub"
         >
           <FaGithub />
