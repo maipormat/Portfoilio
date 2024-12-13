@@ -16,7 +16,7 @@ const AboutMe = () => {
         {/* ปุ่ม Download CV */}
           <button
             className="px-6 py-3 bg-yellow-400 text-black font-bold rounded-lg hover:bg-yellow-500 transition duration-300"
-            onClick={() => window.open('/path/to/your-cv.pdf', '_blank')}
+            onClick={() => window.open('/public/pdf/Poramat CV.pdf')}
           >
             Download CV
           </button>
