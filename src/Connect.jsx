@@ -5,7 +5,7 @@ const Connect = () => {
   return (
     <div className="container mx-auto px-4 py-8 text-center">
       {/* Greeting Message */}
-      <h1 className="text-4xl font-bold mb-4">Hello! Let's Connect</h1>
+      <h1 className="text-3xl font-bold mb-4">Hello! Let's Connect</h1>
       <p className="text-lg text-gray-600 mb-8">
         Feel free to connect with me on LinkedIn or check out my projects on GitHub.
       </p>
